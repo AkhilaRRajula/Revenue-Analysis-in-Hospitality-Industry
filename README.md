@@ -26,13 +26,14 @@
 **DSRN (Daily Sellable Room Nights):** Monitors room availability for sale each day.
 **DURN (Daily Utilized Room Nights):** Reflects the actual room usage by guests daily.
 
-**Learning Outcomes:** This project provided a deep dive into the data dynamics of the hospitality industry, reinforcing my skills in using data analytics to solve real-world challenges. By developing this dashboard, I gained practical experience in turning complex data into strategic insights, helping Atliq Grands make informed business decisions.
-
 **Data Model:** The data model integrates multiple datasets to present a unified view of revenue, occupancy, and customer satisfaction metrics, ensuring Atliq Grands’ management can track performance across different cities and property types effectively.
 
 <img width="564" alt="Data Model View" src="https://github.com/user-attachments/assets/27f93bb6-9125-4e72-8c44-d2c1144b3095">
 
 **Dashboard Preview:**
 <img width="1040" alt="Overall Analysis " src="https://github.com/user-attachments/assets/86b78a85-18c1-4249-b933-7b8ff792c8c0">
+
+
+**Learning Outcomes:** This project provided a deep dive into the data dynamics of the hospitality industry, reinforcing my skills in using data analytics to solve real-world challenges. By developing this dashboard, I gained practical experience in turning complex data into strategic insights, helping Atliq Grands make informed business decisions.
 
 
