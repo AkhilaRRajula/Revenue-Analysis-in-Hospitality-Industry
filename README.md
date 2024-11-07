@@ -32,8 +32,7 @@
 <img width="564" alt="Data Model View" src="https://github.com/user-attachments/assets/27f93bb6-9125-4e72-8c44-d2c1144b3095">
 
 **Dashboard Preview:**
-<img width="1040" alt="Overall Analysis " src="https://github.com/user-attachments/assets/86b78a85-18c1-4249-b933-7b8ff792c8c0">
-
+![Overall Analysis](https://github.com/user-attachments/assets/9fb0f469-3631-4f63-9403-e913545d4c52)
 
 **Learning Outcomes:** This project provided a deep dive into the data dynamics of the hospitality industry, reinforcing my skills in using data analytics to solve real-world challenges. By developing this dashboard, I gained practical experience in turning complex data into strategic insights, helping Atliq Grands make informed business decisions.
 
