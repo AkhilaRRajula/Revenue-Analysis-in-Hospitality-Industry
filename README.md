@@ -1,4 +1,4 @@
-###Revenue Insights in the Hospitality Industry###
+#Revenue Insights in the Hospitality Industry#
 
 
 **Project Overview:** Atliq Grands, a prominent chain of luxury hotels in India, has been facing challenges in the competitive hospitality sector due to ineffective decision-making and strategic advances by competitors. In an effort to regain their market share and boost revenue, the management decided to leverage data intelligence. However, lacking an in-house data analytics team, Atliq Grands engaged a third-party service provider to analyze their historical data and deliver actionable insights.
