@@ -1,5 +1,7 @@
 **Revenue Insights in the Hospitality Industry**
 
+Live Demo: https://app.powerbi.com/groups/me/reports/4a83eec0-4048-4572-9e3c-79823544db77/ReportSectionce2063a216d8e001051e?experience=power-bi
+
 
 **Project Overview:** Atliq Grands, a prominent chain of luxury hotels in India, has been facing challenges in the competitive hospitality sector due to ineffective decision-making and strategic advances by competitors. In an effort to regain their market share and boost revenue, the management decided to leverage data intelligence. However, lacking an in-house data analytics team, Atliq Grands engaged a third-party service provider to analyze their historical data and deliver actionable insights.
 
