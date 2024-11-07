@@ -11,21 +11,21 @@
 
 **Key Insights:** The analysis uncovered valuable insights critical to Atliq Grands’ strategy:
 
--**Highest Revenue Sources:** Mumbai leads in revenue generation (₹669M), followed by Bangalore, Hyderabad, and Delhi.
--**Top Performing Property:** "Atliq Exotica" leads in revenue (₹320M), occupancy (57%), and customer rating (3.62).
--**Highest Occupancy:** "Atliq Bay" achieved the highest occupancy rate at 66%.
--**Peak Week:** Week 24 recorded the highest revenue at ₹139.6M.
--**Strong Markets:** Delhi ranks top in both occupancy and customer satisfaction, followed by Hyderabad, Mumbai, and Bangalore.
--**Revenue Loss from Cancellations:** The business faced a substantial revenue loss of ₹298M due to cancellations.
--**Room Category Insights:** Elite rooms are the most booked and also have the highest cancellation rate.
+- Highest Revenue Sources: Mumbai leads in revenue generation (₹669M), followed by Bangalore, Hyderabad, and Delhi.
+- Top Performing Property:** "Atliq Exotica" leads in revenue (₹320M), occupancy (57%), and customer rating (3.62).
+- Highest Occupancy: "Atliq Bay" achieved the highest occupancy rate at 66%.
+- Peak Week: Week 24 recorded the highest revenue at ₹139.6M.
+- Strong Markets: Delhi ranks top in both occupancy and customer satisfaction, followed by Hyderabad, Mumbai, and Bangalore.
+- Revenue Loss from Cancellations: The business faced a substantial revenue loss of ₹298M due to cancellations.
+- Room Category Insights: Elite rooms are the most booked and also have the highest cancellation rate.
 
 **Metrics and Dashboard Highlights:** Using Power BI, I developed an interactive dashboard that provides a comprehensive view of the following metrics:
 
--**RevPAR (Revenue Per Available Room):** A key indicator of revenue performance.
--**ADR (Average Daily Rate):** Average revenue per sold room, offering insights into pricing efficiency.
--**DBRN (Daily Booked Room Nights):** Tracks daily room bookings.
--**DSRN (Daily Sellable Room Nights):** Monitors room availability for sale each day.
--**DURN (Daily Utilized Room Nights):** Reflects the actual room usage by guests daily.
+- RevPAR (Revenue Per Available Room): A key indicator of revenue performance.
+- ADR (Average Daily Rate): Average revenue per sold room, offering insights into pricing efficiency.
+- DBRN (Daily Booked Room Nights): Tracks daily room bookings.
+- DSRN (Daily Sellable Room Nights): Monitors room availability for sale each day.
+- DURN (Daily Utilized Room Nights): Reflects the actual room usage by guests daily.
 
 **Data Model:** The data model integrates multiple datasets to present a unified view of revenue, occupancy, and customer satisfaction metrics, ensuring Atliq Grands’ management can track performance across different cities and property types effectively.
 
