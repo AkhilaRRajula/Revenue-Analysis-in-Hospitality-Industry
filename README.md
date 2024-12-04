@@ -1,4 +1,4 @@
-**Revenue Insights in the Hospitality Industry**
+**Revenue Analysis in the Hospitality Industry**
 
 Live Demo: https://app.powerbi.com/groups/me/reports/4a83eec0-4048-4572-9e3c-79823544db77/ReportSectionce2063a216d8e001051e?experience=power-bi
 
